@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TH2</string>
+    <string-array name="chuoiluachon">
+        <item>String 1</item>
+        <item>String 2</item>
+        <item>String 3</item>
+        <item>String 4</item>
+    </string-array>
+
+</resources>
